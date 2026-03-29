@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(source venv/Scripts/activate)",
+      "Bash(python -c \":*)",
+      "Bash(timeout 8 streamlit run dashboard.py --server.headless true)"
+    ]
+  }
+}

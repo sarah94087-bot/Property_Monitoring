@@ -1,0 +1,7 @@
+playwright==1.44.0
+beautifulsoup4==4.12.3
+aiohttp>=3.9
+pandas
+streamlit
+openpyxl
+lxml==5.2.2
