@@ -9,7 +9,7 @@
 
 ## תצוגה מקדימה
 
-![Dashboard](docs/screenshot.png.png)
+![Dashboard](docs/screenshot.png)
 
 ---
 
