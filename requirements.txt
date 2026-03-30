@@ -5,3 +5,4 @@ pandas
 streamlit
 openpyxl
 lxml==5.2.2
+pytest
